@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Model/tokenizer cache (Hugging Face)
+~/.cache/
+~/.huggingface/
+
+# Environment variables / secrets (if you ever use them)
+.env
+.env.*
+
+# PyInstaller
+*.spec
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Test output
+.pytest_cache/
+
+# Ignore compiled notebooks
+*.nbconvert.ipynb
