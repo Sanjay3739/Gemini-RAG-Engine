@@ -69,6 +69,6 @@ Follow the steps below to set up and run the project in a clean Python environme
 
 3. Run the Project
     ```
-    python run_inference.py
+    python main.py
     ```
 ---
